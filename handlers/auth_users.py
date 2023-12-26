@@ -1,5 +1,5 @@
 from aiogram import Router
-from aiogram.types import Message, ReplyKeyboardRemove
+from aiogram.types import Message
 from aiogram.filters import StateFilter
 from aiogram import F
 

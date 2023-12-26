@@ -1,7 +1,7 @@
 import os
 import dotenv
 import asyncio
-from aiogram import Bot, Dispatcher, Router
+from aiogram import Bot, Dispatcher
 
 from handlers import start, auth_users
 from keyboard.set_menu import set_main_menu

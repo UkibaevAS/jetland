@@ -2,7 +2,6 @@ from aiogram import Router
 from aiogram.fsm.context import FSMContext
 from aiogram.types import Message
 from aiogram.filters import (
-    Command,
     CommandStart,
 )
 from filters.filter_id import id_verification

@@ -1,10 +1,5 @@
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
-from aiogram.types import (
-    KeyboardButton,
-    Message,
-    ReplyKeyboardMarkup,
-    ReplyKeyboardRemove,
-)
+from aiogram.types import KeyboardButton
 
 kb_choise_loan_rate: ReplyKeyboardBuilder = ReplyKeyboardBuilder()
 
